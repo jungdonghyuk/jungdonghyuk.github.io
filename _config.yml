@@ -1,6 +1,6 @@
-title:              Clean Blog
+title:              DH의 블로그
 email:              dhjung081121@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        음악과 영상과 요리와 여행과 크로스핏을 사랑하는 공대생
 author:             Jung Donghyuk
 baseurl:            ""
 url:                "https://jungdonghyuk.github.io"
@@ -8,12 +8,12 @@ url:                "https://jungdonghyuk.github.io"
 # Social Profiles
 twitter_username:  
 github_username:    jungdonghyuk
-facebook_username:  dhjung081121
+facebook_username:  dhjung990120
 instagram_username:  dhjung081121
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   G-1XM9EMX1XV # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
